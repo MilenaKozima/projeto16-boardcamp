@@ -3,9 +3,10 @@
   "type": "module",
   "version": "1.0.0",
   "description": "",
-  "main": "scr/app.js",
+  "main": "./scr/app.js",
   "scripts": {
-    "dev": "nodemon scr/app.js"
+    "start": "node ./src/app.js",
+    "dev": "nodemon ./src/app.js"
   },
   "keywords": [],
   "author": "",
