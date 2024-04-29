@@ -88,5 +88,3 @@ export async function updateCustomer(req, res){
 
 }
 
-
-
