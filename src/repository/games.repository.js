@@ -24,4 +24,3 @@ export function addGame(body){
     return result;
 
 }
-
